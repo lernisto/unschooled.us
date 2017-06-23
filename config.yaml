@@ -1,0 +1,21 @@
+---
+baseURL: "/"
+languageCode: "en-us"
+title: "Unschooled Mavericks"
+metaDataFormat: yaml
+theme: hugo-theme-vec
+params:
+  menu:
+    main:
+      - name: post
+        weight: 0
+        uri: /post/
+      - name: contact
+        weight: 0
+        uri: /contact/
+      - name: faq
+        weight: 0
+        uri: /faq/
+  avatar: img/default.jpg
+  selfIntro: "The Maverick - Inspiration for the Unbranded"
+  twitterID: unskoolmaverick
